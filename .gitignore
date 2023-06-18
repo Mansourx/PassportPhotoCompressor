@@ -1,0 +1,27 @@
+# React Native
+/node_modules
+/.expo
+/.expo-shared
+*.expo.js
+*.expo.ts
+*.expo.tsx
+/*.jks
+*.log
+/ios/Pods
+/ios/Podfile.lock
+/ios/build
+/ios/Pods/Manifest.lock
+/ios/Pods/Target Support Files
+/ios/Pods/GeneratedHeaders
+/ios/Pods/BuildHeaders
+/ios/Pods/Resources
+/ios/Pods/Headers
+/ios/DerivedData
+/ios/.generated
+/android/.gradle
+/android/build
+/android/app/.externalNativeBuild
+/android/app/build
+.DS_Store
+/.idea
+.vscode
