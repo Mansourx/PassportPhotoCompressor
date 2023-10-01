@@ -1,8 +1,7 @@
-import Home from './app/screens/Home';
-import {Colors} from 'react-native/Libraries/NewAppScreen';
-import {SafeAreaView, useColorScheme} from 'react-native';
-import React, {FC} from 'react';
-
+import Home from "./app/screens/Home";
+import { Colors } from "react-native/Libraries/NewAppScreen";
+import { SafeAreaView, useColorScheme } from "react-native";
+import React, { FC } from "react";
 
 interface Props {
   appName: string;
@@ -18,7 +17,6 @@ const App: FC<Props> = (props): JSX.Element => {
       <Home />
     </SafeAreaView>
   );
-}
-
+};
 
 export default App;
