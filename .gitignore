@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io/api/macos,xcode,android,reactnative,androidstudio
 
+node_modules/
+node/
+
 ### Android ###
 # Built application files
 *.apk
